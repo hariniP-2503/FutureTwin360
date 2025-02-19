@@ -2,7 +2,7 @@
 
 🚀 Overview
 
-This project is an IoT-enabled platform designed to monitor and predict maintenance needs for cranes and material handling equipment. Using Digital Twin technology and Predictive Analytics, it provides real-time monitoring, failure prediction, and remote troubleshooting through AR/VR.
+This project is an IoT-enabled platform designed to monitor and predict maintenance needs for cranes and material handling equipment. Using Digital Twin technology and Predictive Analytics, it provides real-time monitoring, failure prediction.
 
 🔹 Features
 
